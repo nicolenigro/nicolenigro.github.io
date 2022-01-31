@@ -1,0 +1,26 @@
+body {
+    background-image: url('assets/sky.jpeg')
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Helvetica';
+    padding-top: 30px;
+}
+
+p {
+    font-family: 'Arial';
+    padding-left: 20px;
+}
+
+p :hover{
+    color: hotpink;
+}
+
+a {
+    color: black;
+}
+
+.blurb {
+    width: 60%
+}
