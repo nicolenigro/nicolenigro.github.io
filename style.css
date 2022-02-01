@@ -23,5 +23,18 @@ a {
 }
 
 .blurb {
-    width: 60%
+    position: fixed;
+    width: 60%;
+    left: 0;
+    height: 100%;
+}
+
+.projects {
+    position: fixed;
+    width: 40%;
+    left: 60%;
+    height: 100%;
+}
+
+.folder {
 }
