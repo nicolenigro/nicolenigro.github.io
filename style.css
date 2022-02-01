@@ -1,5 +1,6 @@
 body {
-    background-image: url('assets/sky.jpeg')
+    background-image: url('assets/sky.jpeg');
+    background-repeat: no-repeat;
 }
 
 h1 {
