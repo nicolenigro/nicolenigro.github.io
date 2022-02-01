@@ -9,6 +9,12 @@ h1 {
     padding-top: 30px;
 }
 
+h5 {
+    font-family: 'Helvetica';
+    margin: 0;
+    font-weight: normal;
+}
+
 p {
     font-family: 'Arial';
     padding-left: 20px;
@@ -36,5 +42,18 @@ a {
     height: 100%;
 }
 
-.folder {
+.folder1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 160px;
+    width: 20%;
+}
+
+.folder2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 290px;
+    width: 20%;
 }
